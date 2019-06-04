@@ -1,8 +1,8 @@
-# OAUTH2_IN_MEMORY
+# OAUTH2_REDIS
 
 ### Reference Documentation
 For further reference, please consider the following sections:
 
-* [Spring Boot 2 And OAuth 2](https://pattern-match.com/blog/2018/10/17/springboot2-with-oauth2-integration/)
+* [Spring Boot 2 And OAuth 2 and Redis](https://www.rimon.xyz/2019/04/redis-as-token-store-spring-boot-oauth2/)
 
 
